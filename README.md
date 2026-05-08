@@ -17,6 +17,33 @@ The system transforms structured educational input into organized PDF documents 
 Form Input → Spreadsheet → Automation → PDF Generation → Drive Storage
 
 ---
+---
+
+## 📸 System Preview
+
+### Form Input
+
+![Form Input](assets/form-input.png)
+
+---
+
+### Spreadsheet Workflow
+
+![Spreadsheet Workflow](assets/spreadsheet-workflow.png)
+
+---
+
+### Generated PDF
+
+![Generated PDF](assets/generated-pdf.png)
+
+---
+
+### Drive Storage
+
+![Drive Storage](assets/drive-storage.png)
+
+---
 
 ## 🎯 Real Classroom Impact
 
