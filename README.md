@@ -17,6 +17,9 @@ The system transforms structured educational input into organized PDF documents 
 Form Input → Spreadsheet → Automation → PDF Generation → Drive Storage
 
 ---
+# 🏗️ System Architecture
+
+![Architecture](assets/architecture-diagram.png)
 ---
 
 ## 📸 System Preview
