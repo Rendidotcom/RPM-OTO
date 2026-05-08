@@ -18,6 +18,24 @@ Form Input → Spreadsheet → Automation → PDF Generation → Drive Storage
 
 ---
 
+## 🎯 Real Classroom Impact
+
+This system was designed to solve repetitive reporting workflows commonly faced by teachers.
+
+Before automation:
+- Manual document formatting
+- Repetitive report writing
+- High administrative workload
+- Risk of inconsistent reporting
+
+After implementation:
+- Faster report generation
+- Structured reporting workflow
+- Reduced teacher workload
+- More time focused on teaching and student support
+
+The system has been tested in real educational workflow scenarios using Google Apps Script automation.
+
 ## 🧩 Key Features
 
 - automated report generation
