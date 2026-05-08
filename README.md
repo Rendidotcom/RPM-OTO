@@ -2,110 +2,169 @@
 
 An automation workflow designed to simplify educational reporting and document generation using Google Apps Script.
 
----
-
-## 🚀 Core Purpose
-
-RPM-OTO helps reduce repetitive administrative work by automating report generation workflows.
-
-The system transforms structured educational input into organized PDF documents automatically.
+RPM-OTO transforms structured educational input into organized PDF documents automatically, helping teachers reduce repetitive administrative work and focus more on learning activities.
 
 ---
 
-## ⚙️ Workflow
+# 🚀 Core Purpose
 
-Form Input → Spreadsheet → Automation → PDF Generation → Drive Storage
+RPM-OTO was developed to address common reporting inefficiencies in educational environments.
+
+The system automates:
+- educational reporting workflows
+- document structuring
+- PDF generation
+- file organization
+- administrative processing
+
+By integrating Google Forms, Google Sheets, Google Apps Script, and Google Drive, the workflow creates a lightweight but scalable reporting ecosystem for teachers.
 
 ---
+
+# ⚙️ Workflow
+
+Teacher Input  
+↓  
+Spreadsheet Processing  
+↓  
+Apps Script Automation  
+↓  
+PDF Generation  
+↓  
+Google Drive Storage
+
+---
+
 # 🏗️ System Architecture
 
 ![Architecture](assets/architecture-diagram.png)
+
 ---
 
-## 📸 System Preview
+# ✨ Key Features
 
-### Form Input
+- Automated RPM document generation
+- Spreadsheet-based workflow processing
+- Google Drive integration
+- Structured reporting pipeline
+- Real-time PDF organization
+- Teacher-friendly interface
+- Lightweight operational workflow
+- Standardized document formatting
+- Reduced manual administrative workload
+- Scalable educational reporting structure
+
+---
+
+# 📸 System Preview
+
+## Form Input
+
+Teacher-friendly interface for structured educational data entry.
 
 ![Form Input](assets/form-input.png)
 
 ---
 
-### Spreadsheet Workflow
+## Spreadsheet Workflow
+
+Data processing and workflow management using Google Sheets.
 
 ![Spreadsheet Workflow](assets/spreadsheet-workflow.png)
 
 ---
 
-### Generated PDF
+## Generated PDF
+
+Automated RPM document generation in PDF format.
 
 ![Generated PDF](assets/generated-pdf.png)
 
 ---
 
-### Drive Storage
+## Drive Storage
+
+Generated files are automatically organized inside Google Drive.
 
 ![Drive Storage](assets/drive-storage.png)
 
 ---
 
-## 🎯 Real Classroom Impact
+# 🎯 Real Classroom Impact
 
-This system was designed to solve repetitive reporting workflows commonly faced by teachers.
+This system was designed for real educational workflow implementation.
 
-Before automation:
-- Manual document formatting
-- Repetitive report writing
-- High administrative workload
-- Risk of inconsistent reporting
+## Before Automation
 
-After implementation:
+- Manual report formatting
+- Repetitive documentation work
+- High administrative burden
+- Inconsistent reporting structures
+- Time-consuming document management
+
+## After Implementation
+
 - Faster report generation
-- Structured reporting workflow
+- Standardized reporting workflow
 - Reduced teacher workload
+- Organized document storage
 - More time focused on teaching and student support
 
-The system has been tested in real educational workflow scenarios using Google Apps Script automation.
-
-## 🧩 Key Features
-
-- automated report generation
-- PDF export automation
-- Google Drive integration
-- standardized document formatting
-- scalable reporting workflow
-- lightweight operational system
+RPM-OTO has been tested in practical educational reporting scenarios using Google Apps Script automation workflows.
 
 ---
 
-## 🏫 Educational Context
+# 🏫 Educational Context
 
-Built for real educational environments where teachers need faster and more consistent reporting systems.
-
-The workflow prioritizes:
+Built for educational institutions and teachers who require:
 - operational efficiency
+- consistent documentation
+- scalable reporting systems
+- simplified administrative workflows
+
+The system prioritizes:
 - usability
+- speed
 - consistency
-- reduced manual workload
+- automation efficiency
+- practical classroom implementation
 
 ---
 
-## 🛠️ Technologies
+# 🛠️ Technologies
 
 - Google Apps Script
 - Google Sheets
 - Google Drive
-- HTML/CSS/JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ---
 
-## 📄 Additional Documentation
+# 🚀 Future Improvements
+
+Planned future developments include:
+- Multi-user authentication
+- Dashboard analytics
+- AI-assisted lesson recommendations
+- DOCX export support
+- Classroom activity tracking
+- Student learning analytics
+- Cloud database integration
+- Advanced reporting visualization
+
+---
+
+# 📄 Additional Documentation
 
 See:
+
 - SYSTEM-OVERVIEW.md
 
 ---
 
-## 👤 Author
+# 👤 Author
 
 Rendi Holis  
 Digital Educator & System Builder
