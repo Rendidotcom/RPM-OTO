@@ -1,0 +1,63 @@
+# RPM-OTO — Educational Reporting Automation System
+
+An automation workflow designed to simplify educational reporting and document generation using Google Apps Script.
+
+---
+
+## 🚀 Core Purpose
+
+RPM-OTO helps reduce repetitive administrative work by automating report generation workflows.
+
+The system transforms structured educational input into organized PDF documents automatically.
+
+---
+
+## ⚙️ Workflow
+
+Form Input → Spreadsheet → Automation → PDF Generation → Drive Storage
+
+---
+
+## 🧩 Key Features
+
+- automated report generation
+- PDF export automation
+- Google Drive integration
+- standardized document formatting
+- scalable reporting workflow
+- lightweight operational system
+
+---
+
+## 🏫 Educational Context
+
+Built for real educational environments where teachers need faster and more consistent reporting systems.
+
+The workflow prioritizes:
+- operational efficiency
+- usability
+- consistency
+- reduced manual workload
+
+---
+
+## 🛠️ Technologies
+
+- Google Apps Script
+- Google Sheets
+- Google Drive
+- HTML/CSS/JavaScript
+
+---
+
+## 📄 Additional Documentation
+
+See:
+- SYSTEM-OVERVIEW.md
+
+---
+
+## 👤 Author
+
+Rendi Holis  
+Digital Educator & System Builder
