@@ -1,0 +1,40 @@
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# VS Code
+
+.vscode/
+
+# Logs
+
+*.log
+
+# Environment variables
+
+.env
+.env.*
+
+# Node
+
+node_modules/
+
+# Build folders
+
+dist/
+build/
+
+# Temporary files
+
+tmp/
+temp/
+
+# Google Apps Script local config
+
+.clasp.json
+
+# Package locks (optional)
+
+package-lock.json
+yarn.lock
