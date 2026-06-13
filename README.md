@@ -1,37 +1,62 @@
 # RPM-OTO — Educational Reporting Automation System
 
-An automation workflow designed to simplify educational reporting and document generation using Google Apps Script.
+> AI-Assisted Educational Reporting Automation System built to reduce teacher administrative workload through Google Workspace automation.
 
-RPM-OTO transforms structured educational input into organized PDF documents automatically, helping teachers reduce repetitive administrative work and focus more on learning activities.
+RPM-OTO is an educational automation platform designed to simplify reporting workflows and document generation using Google Forms, Google Sheets, Google Apps Script, Google Drive, and automated PDF generation.
 
----
-
-# 🚀 Core Purpose
-
-RPM-OTO was developed to address common reporting inefficiencies in educational environments.
-
-The system automates:
-- educational reporting workflows
-- document structuring
-- PDF generation
-- file organization
-- administrative processing
-
-By integrating Google Forms, Google Sheets, Google Apps Script, and Google Drive, the workflow creates a lightweight but scalable reporting ecosystem for teachers.
+The system transforms structured teacher input into standardized reports automatically, helping educators spend less time on administration and more time supporting student learning.
 
 ---
 
-# ⚙️ Workflow
+# 🚀 Why RPM-OTO?
 
-Teacher Input  
-↓  
-Spreadsheet Processing  
-↓  
-Apps Script Automation  
-↓  
-PDF Generation  
-↓  
+Teachers often spend significant time preparing, formatting, organizing, and managing educational reports.
+
+RPM-OTO addresses this challenge by automating the entire reporting workflow:
+
+Teacher Input
+↓
+Data Processing
+↓
+Apps Script Automation
+↓
+PDF Generation
+↓
 Google Drive Storage
+
+The result is a faster, more consistent, and scalable reporting process.
+
+---
+
+# 🎯 Educational Impact
+
+RPM-OTO was created with a simple goal:
+
+> Reduce administrative workload so teachers can focus on teaching and learning.
+
+Benefits include:
+
+* Reduced repetitive administrative tasks
+* Faster report generation
+* Consistent reporting standards
+* Automated document organization
+* Improved operational efficiency
+* Better use of teacher time
+
+---
+
+# ⚙️ Core Features
+
+* Automated RPM document generation
+* Google Forms integration
+* Google Sheets database workflow
+* Google Apps Script automation engine
+* PDF report generation
+* Google Drive file management
+* Standardized reporting structure
+* Teacher-friendly workflow
+* Low-cost implementation using Google Workspace
+* Scalable educational reporting system
 
 ---
 
@@ -41,130 +66,164 @@ Google Drive Storage
 
 ---
 
-# ✨ Key Features
-
-- Automated RPM document generation
-- Spreadsheet-based workflow processing
-- Google Drive integration
-- Structured reporting pipeline
-- Real-time PDF organization
-- Teacher-friendly interface
-- Lightweight operational workflow
-- Standardized document formatting
-- Reduced manual administrative workload
-- Scalable educational reporting structure
-
----
-
 # 📸 System Preview
 
 ## Form Input
 
-Teacher-friendly interface for structured educational data entry.
+Structured teacher input through Google Forms.
 
 ![Form Input](assets/form-input.png)
 
 ---
 
-## Spreadsheet Workflow
+## Spreadsheet Processing
 
-Data processing and workflow management using Google Sheets.
+Workflow management and reporting database using Google Sheets.
 
 ![Spreadsheet Workflow](assets/spreadsheet-workflow.png)
 
 ---
 
-## Generated PDF
+## Automated PDF Generation
 
-Automated RPM document generation in PDF format.
+Educational reports generated automatically in PDF format.
 
 ![Generated PDF](assets/generated-pdf.png)
 
 ---
 
-## Drive Storage
+## Google Drive Storage
 
-Generated files are automatically organized inside Google Drive.
+Generated files are automatically organized and stored.
 
 ![Drive Storage](assets/drive-storage.png)
 
 ---
 
-# 🎯 Real Classroom Impact
+# 🏫 Real Classroom Implementation
 
-This system was designed for real educational workflow implementation.
+RPM-OTO is not a prototype.
 
-## Before Automation
+It is designed and tested for real educational reporting workflows.
 
-- Manual report formatting
-- Repetitive documentation work
-- High administrative burden
-- Inconsistent reporting structures
-- Time-consuming document management
+### Before Automation
 
-## After Implementation
+* Manual document formatting
+* Repetitive administrative work
+* Inconsistent report structures
+* Time-consuming file management
+* Increased teacher workload
 
-- Faster report generation
-- Standardized reporting workflow
-- Reduced teacher workload
-- Organized document storage
-- More time focused on teaching and student support
+### After Automation
 
-RPM-OTO has been tested in practical educational reporting scenarios using Google Apps Script automation workflows.
-
----
-
-# 🏫 Educational Context
-
-Built for educational institutions and teachers who require:
-- operational efficiency
-- consistent documentation
-- scalable reporting systems
-- simplified administrative workflows
-
-The system prioritizes:
-- usability
-- speed
-- consistency
-- automation efficiency
-- practical classroom implementation
+* Faster report creation
+* Standardized documentation
+* Organized file storage
+* Reduced administrative burden
+* More time for instruction and student support
 
 ---
 
-# 🛠️ Technologies
+# 🛠️ Technology Stack
 
-- Google Apps Script
-- Google Sheets
-- Google Drive
-- HTML
-- CSS
-- JavaScript
+### Backend Automation
+
+* Google Apps Script
+
+### Data Layer
+
+* Google Sheets
+
+### Storage Layer
+
+* Google Drive
+
+### Input Layer
+
+* Google Forms
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+
+### Deployment
+
+* Vercel
 
 ---
 
-# 🚀 Future Improvements
+# 📂 Repository Structure
 
-Planned future developments include:
-- Multi-user authentication
-- Dashboard analytics
-- AI-assisted lesson recommendations
-- DOCX export support
-- Classroom activity tracking
-- Student learning analytics
-- Cloud database integration
-- Advanced reporting visualization
+```text
+RPM-OTO/
+│
+├── assets/
+│   ├── architecture-diagram.png
+│   ├── form-input.png
+│   ├── spreadsheet-workflow.png
+│   ├── generated-pdf.png
+│   └── drive-storage.png
+│
+├── docs/
+│
+├── src/
+│
+├── README.md
+└── SYSTEM-OVERVIEW.md
+```
 
 ---
 
-# 📄 Additional Documentation
+# 🔮 Future Roadmap
 
-See:
+Planned improvements:
 
-- SYSTEM-OVERVIEW.md
+* Multi-user authentication
+* Dashboard analytics
+* AI-assisted reporting support
+* DOCX export
+* Classroom activity tracking
+* Student learning analytics
+* Reflection analytics
+* Character development reporting
+* Human-Centered Learning Ecosystem integration
+
+---
+
+# 📄 Documentation
+
+Additional documentation:
+
+* SYSTEM-OVERVIEW.md
 
 ---
 
 # 👤 Author
 
-Rendi Holis  
-Digital Educator & System Builder
+**Rendi Nur Holis**
+
+English Educator | Educational Technology Innovator | Educational Systems Builder
+
+Focused on:
+
+* Educational Automation
+* Artificial Intelligence in Education
+* Character Formation
+* Reflection-Based Learning
+* Human-Centered Learning Ecosystem Design
+
+---
+
+## Vision
+
+Building educational systems that combine:
+
+* Character Formation
+* Reflection
+* Project-Based Learning
+* AI Integration
+* Educational Automation
+
+to create meaningful and sustainable learning experiences.
